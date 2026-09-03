@@ -1,0 +1,104 @@
+{
+  "season": "2026 봄시즌",
+  "team": "마케팅디깅",
+  "date": "2026. 04. 16 목요일",
+  "sessionNumber": "03",
+  "topic": "Branding",
+  "nextSession": "다음 <strong>4회차</strong>는 <strong>4월 30일 (목) 19:30</strong> 오아시스 덕수궁입니다.",
+  "venue": "소정동",
+  "timetable": [
+    {
+      "time": "19:30 – 19:40",
+      "label": "스몰토크",
+      "main": false
+    },
+    {
+      "time": "19:40 – 20:40",
+      "label": "멤버 및 파트너 소개",
+      "main": true
+    },
+    {
+      "time": "20:40 – 20:50",
+      "label": "쉬는 시간",
+      "main": false
+    },
+    {
+      "time": "20:50 – 21:50",
+      "label": "파트너의 발표 진행",
+      "main": true
+    },
+    {
+      "time": "21:50 – 22:00",
+      "label": "4L 리뷰 작성",
+      "main": false
+    }
+  ],
+  "partner": {
+    "name": "김민정",
+    "org": "오늘의집"
+  },
+  "members": [
+    {
+      "name": "임성우",
+      "org": "삼성전자"
+    },
+    {
+      "name": "황성준",
+      "org": "바이트댄스"
+    },
+    {
+      "name": "이지현",
+      "org": "네이버웹툰"
+    },
+    {
+      "name": "김한나",
+      "org": "LG전자"
+    },
+    {
+      "name": "송선혜",
+      "org": "플렉스튜디오"
+    },
+    {
+      "name": "윤지성",
+      "org": "Remerge"
+    },
+    {
+      "name": "이태희",
+      "org": "HuskyFox"
+    },
+    {
+      "name": "강동훈",
+      "org": "(주)오디스랩"
+    },
+    {
+      "name": "이도희",
+      "org": "레드햇"
+    }
+  ],
+  "notices": [
+    "AI 부트캠프를 서울과 제주에서 엽니다. 바이브 코딩을 100% 활용하고 있지만, 내 일에 AI를 120%, 200% 더 발견해보고 싶은 멤버를 위한 자리입니다.",
+    "HFK는 '성장은 벡터'라는 관점에서 여름시즌부터 성장 트랙을 새로 설계합니다. 코카콜라의 Multidirectional Career Growth를 참고해 New horizons, Vertical, Horizontal, Realignment, Enrichment 등 성장의 방향에 따라 팀과 프로그램을 매칭합니다. 당신의 성장 방향은 어디를 향하고 있나요?",
+    "봄시즌을 개선하고, 의미 있는 여름시즌을 준비하기 위해 멤버들의 피드백을 기다립니다. 사전 서베이에 모든 멤버가 참여해주셔야 합니다."
+  ],
+  "events": [
+    {
+      "day": "04.17",
+      "dow": "금",
+      "time": "13:30–16:50",
+      "venue": "코엑스 그랜드컨퍼런스룸 401호",
+      "title": "폴인 마케터클럽 시즌4"
+    },
+    {
+      "day": "04.18",
+      "dow": "토",
+      "time": "14:00–20:00",
+      "venue": "오아시스 덕수궁",
+      "title": "하프데이 커리어캠프"
+    }
+  ],
+  "wifi": {
+    "id": "301_sojungdong",
+    "pw": "sojungdong00000"
+  },
+  "restroom": "W 4F (비번없음) · M 5F (0000)"
+}

@@ -1,0 +1,954 @@
+{
+ "handouts": [
+  {
+   "team": "마케팅디깅",
+   "date": "2026-03-19",
+   "sessionNumber": "01",
+   "topic": "직업인 마케터",
+   "file": "마케팅디깅_2026-03-19.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-03-20",
+   "sessionNumber": "01",
+   "topic": "먼저 온 미래",
+   "file": "리더의서재_2026-03-20.json"
+  },
+  {
+   "team": "소통의기술",
+   "date": "2026-03-21",
+   "sessionNumber": "02",
+   "topic": "정보-전달 시각화 2",
+   "file": "소통의기술_2026-03-21.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-03-22",
+   "sessionNumber": "02",
+   "topic": "강점의 구성요소, 스킬",
+   "file": "강점차별화_2026-03-22.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-03-22",
+   "sessionNumber": "01",
+   "topic": "'팀오호츠크' 멤버 자기소개",
+   "file": "팀오호츠크_2026-03-22.json"
+  },
+  {
+   "team": "전략가의일",
+   "date": "2026-03-26",
+   "sessionNumber": "02",
+   "topic": "The Seven-Step Problem Solving Part II",
+   "file": "전략가의일_2026-03-26.json"
+  },
+  {
+   "team": "AI부사수",
+   "date": "2026-03-27",
+   "sessionNumber": "02",
+   "topic": "STAR 프레임워크 & 클로드 코드 설치",
+   "file": "AI부사수_2026-03-27.json"
+  },
+  {
+   "team": "경영의전설",
+   "date": "2026-03-27",
+   "sessionNumber": "02",
+   "topic": "책 <실패를 통과하는 일> Scene #6 ~ 에필로그",
+   "file": "경영의전설_2026-03-27.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-03-28",
+   "sessionNumber": "02",
+   "topic": "AI 협업 프로젝트 관리",
+   "file": "AI핸즈온_2026-03-28.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-03-29",
+   "sessionNumber": "02",
+   "topic": "Discover: 사용자 리서치와 공감",
+   "file": "감각적기획_2026-03-29.json"
+  },
+  {
+   "team": "리더십첫줄",
+   "date": "2026-03-29",
+   "sessionNumber": "02",
+   "topic": "소통 및 관계 스킬 (CONNECT)",
+   "file": "리더십첫줄_2026-03-29.json"
+  },
+  {
+   "team": "고급화전략",
+   "date": "2026-03-30",
+   "sessionNumber": "02",
+   "topic": "럭셔리의 한끗",
+   "file": "고급화전략_2026-03-30.json"
+  },
+  {
+   "team": "저스트두잇",
+   "date": "2026-03-31",
+   "sessionNumber": "02",
+   "topic": "생각을 입체화하기",
+   "file": "저스트두잇_2026-03-31.json"
+  },
+  {
+   "team": "소통의기술",
+   "date": "2026-04-04",
+   "sessionNumber": "03",
+   "topic": "지시-보고 시각화 1",
+   "file": "소통의기술_2026-04-04.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-04-05",
+   "sessionNumber": "03",
+   "topic": "노력의 ROI, 1등과 2등의 차이",
+   "file": "강점차별화_2026-04-05.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-04-05",
+   "sessionNumber": "02",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-04-05.json"
+  },
+  {
+   "team": "AI부사수",
+   "date": "2026-04-10",
+   "file": "handouts/AI부사수_2026-04-10.json"
+  },
+  {
+   "team": "경영의전설",
+   "date": "2026-04-10",
+   "file": "handouts/경영의전설_2026-04-10.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-04-11",
+   "file": "handouts/AI핸즈온_2026-04-11.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-04-12",
+   "file": "handouts/감각적기획_2026-04-12.json"
+  },
+  {
+   "team": "리더십첫줄",
+   "date": "2026-04-12",
+   "file": "handouts/리더십첫줄_2026-04-12.json"
+  },
+  {
+   "team": "고급화전략",
+   "date": "2026-04-13",
+   "file": "handouts/고급화전략_2026-04-13.json"
+  },
+  {
+   "team": "저스트두잇",
+   "date": "2026-04-14",
+   "file": "handouts/저스트두잇_2026-04-14.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-04-16",
+   "sessionNumber": "03",
+   "topic": "Branding",
+   "file": "마케팅디깅_2026-04-16.json"
+  },
+  {
+   "team": "전략가의일",
+   "date": "2026-04-16",
+   "sessionNumber": "03",
+   "topic": "국내 식품회사 Turnaround 전략 Case",
+   "file": "전략가의일_2026-04-16.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-04-17",
+   "sessionNumber": "03",
+   "topic": "AI이후의 세계",
+   "file": "리더의서재_2026-04-17.json"
+  },
+  {
+   "team": "소통의기술",
+   "date": "2026-04-18",
+   "sessionNumber": "04",
+   "topic": "지시-보고 시각화 2",
+   "file": "소통의기술_2026-04-18.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-04-19",
+   "sessionNumber": "04",
+   "topic": "번아웃 방지를 위한 데이터 분석",
+   "file": "강점차별화_2026-04-19.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-04-19",
+   "sessionNumber": "03",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-04-19.json"
+  },
+  {
+   "team": "AI부사수",
+   "date": "2026-04-24",
+   "sessionNumber": "04",
+   "topic": "프로젝트 관리",
+   "file": "AI부사수_2026-04-24.json"
+  },
+  {
+   "team": "경영의전설",
+   "date": "2026-04-24",
+   "sessionNumber": "04",
+   "topic": "책 <위대한 기업은 다 어디로 갔을까> 3단계 ~ 결말",
+   "file": "경영의전설_2026-04-24.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-04-25",
+   "sessionNumber": "04",
+   "topic": "워크스페이스 완성 - 반복 작업을 간단하게",
+   "file": "AI핸즈온_2026-04-25.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-04-26",
+   "sessionNumber": "04",
+   "topic": "Develop: 창의적 아이데이션 & 직관",
+   "file": "감각적기획_2026-04-26.json"
+  },
+  {
+   "team": "리더십첫줄",
+   "date": "2026-04-26",
+   "sessionNumber": "04",
+   "topic": "팀 구축 및 협업 (TEAM)",
+   "file": "리더십첫줄_2026-04-26.json"
+  },
+  {
+   "team": "고급화전략",
+   "date": "2026-04-27",
+   "sessionNumber": "04",
+   "topic": "두쫀쿠는 고급일까",
+   "file": "고급화전략_2026-04-27.json"
+  },
+  {
+   "team": "저스트두잇",
+   "date": "2026-04-28",
+   "sessionNumber": "04",
+   "topic": "나만의 이야기 만들기",
+   "file": "저스트두잇_2026-04-28.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-04-30"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-05-01"
+  },
+  {
+   "team": "소통의기술",
+   "date": "2026-05-02"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-05-03"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-05-03"
+  },
+  {
+   "team": "전략가의일",
+   "date": "2026-05-07",
+   "sessionNumber": "04",
+   "topic": "국내 소비재社 Turnaround 전략 Case I",
+   "file": "전략가의일_2026-05-07.json"
+  },
+  {
+   "team": "AI부사수",
+   "date": "2026-05-08",
+   "sessionNumber": "05",
+   "topic": "워크 스페이스 개설",
+   "file": "AI부사수_2026-05-08.json"
+  },
+  {
+   "team": "경영의전설",
+   "date": "2026-05-08",
+   "sessionNumber": "05",
+   "topic": "책 <기업이 원하는 변화의 리더> 1장 ~ 변화관리 3단계",
+   "file": "경영의전설_2026-05-08.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-05-09",
+   "sessionNumber": "05",
+   "topic": "실전 프로젝트 설계하기",
+   "file": "AI핸즈온_2026-05-09.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-05-10",
+   "sessionNumber": "05",
+   "topic": "Deliver: 프로토타입 & 사용성 테스트",
+   "file": "감각적기획_2026-05-10.json"
+  },
+  {
+   "team": "리더십첫줄",
+   "date": "2026-05-10",
+   "sessionNumber": "05",
+   "topic": "잡크래프팅과 임파워먼트 (EMPOWER)",
+   "file": "리더십첫줄_2026-05-10.json"
+  },
+  {
+   "team": "고급화전략",
+   "date": "2026-05-11",
+   "sessionNumber": "05",
+   "topic": "업무 브랜딩",
+   "file": "고급화전략_2026-05-11.json"
+  },
+  {
+   "team": "저스트두잇",
+   "date": "2026-05-12",
+   "sessionNumber": "05",
+   "topic": "이야기를 입체화하기",
+   "file": "저스트두잇_2026-05-12.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-05-14",
+   "file": "마케팅디깅_2026-05-14.json",
+   "sessionNumber": "05",
+   "topic": "CRM & Growth"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-05-15",
+   "file": "리더의서재_2026-05-15.json",
+   "sessionNumber": "05",
+   "topic": "패권"
+  },
+  {
+   "team": "소통의기술",
+   "date": "2026-05-16",
+   "file": "소통의기술_2026-05-16.json",
+   "sessionNumber": "06",
+   "topic": "미팅-협상 시각화 2"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-05-17",
+   "file": "강점차별화_2026-05-17.json",
+   "sessionNumber": "06",
+   "topic": "나만의 서사, 경력기술서 업데이트"
+  },
+  {
+   "team": "전략가의일",
+   "date": "2026-05-21",
+   "file": "handouts/전략가의일_2026-05-21.json"
+  },
+  {
+   "team": "AI부사수",
+   "date": "2026-05-22",
+   "file": "handouts/AI부사수_2026-05-22.json"
+  },
+  {
+   "team": "경영의전설",
+   "date": "2026-05-22",
+   "file": "handouts/경영의전설_2026-05-22.json"
+  },
+  {
+   "team": "저스트두잇",
+   "date": "2026-05-26",
+   "file": "handouts/저스트두잇_2026-05-26.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-05-28",
+   "sessionNumber": "06",
+   "topic": "KPI와 마케터의 뷰",
+   "file": "마케팅디깅_2026-05-28.json"
+  },
+  {
+   "team": "전략가의일",
+   "date": "2026-05-28",
+   "sessionNumber": "06",
+   "topic": "Wrap-up",
+   "file": "전략가의일_2026-05-28.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-05-30",
+   "sessionNumber": "06",
+   "topic": "결과물 공유 및 피드백",
+   "file": "AI핸즈온_2026-05-30.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-05-31",
+   "sessionNumber": "06",
+   "topic": "발표 & 피드백",
+   "file": "감각적기획_2026-05-31.json"
+  },
+  {
+   "team": "리더십첫줄",
+   "date": "2026-05-31",
+   "sessionNumber": "06",
+   "topic": "의사 결정과 문제 해결 (SOLVE)",
+   "file": "리더십첫줄_2026-05-31.json"
+  },
+  {
+   "team": "고급화전략",
+   "date": "2026-06-01",
+   "sessionNumber": "06",
+   "topic": "한끗을 만드는 실행력",
+   "file": "고급화전략_2026-06-01.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-06-04",
+   "sessionNumber": "01",
+   "topic": "직업인 마케터",
+   "file": "마케팅디깅_2026-06-04.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-06-11",
+   "sessionNumber": "01",
+   "topic": "Unknown Unknowns → Unknown Knowns",
+   "file": "AI핸즈온_2026-06-11.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-06-11",
+   "sessionNumber": "02",
+   "topic": "마케팅 총론",
+   "file": "마케팅디깅_2026-06-11.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-06-12",
+   "sessionNumber": "01",
+   "topic": "자기 소개",
+   "file": "AI부사수(FRI)_2026-06-12.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-06-12",
+   "sessionNumber": "05",
+   "topic": "패권",
+   "file": "리더의서재_2026-06-12.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-06-13",
+   "sessionNumber": "01",
+   "topic": "'나르'는 호모 나르시쿠스가 만든 자기 변명이다.",
+   "file": "직장인문학_2026-06-13.json"
+  },
+  {
+   "team": "서울재발견",
+   "date": "2026-06-16",
+   "sessionNumber": "01",
+   "topic": "시티호퍼스가 서울을 바라보는 관점 소개",
+   "file": "서울재발견_2026-06-16.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-06-18",
+   "sessionNumber": "03",
+   "topic": "Branding",
+   "file": "마케팅디깅_2026-06-18.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-06-19",
+   "sessionNumber": "02",
+   "topic": "데이터 분석",
+   "file": "AI부사수(FRI)_2026-06-19.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-06-20",
+   "sessionNumber": "01",
+   "topic": "직무 강점 분석",
+   "file": "강점차별화_2026-06-20.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-06-20",
+   "sessionNumber": "01",
+   "topic": "Daily Standup & 1:1",
+   "file": "컨퍼런스콜_2026-06-20.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-06-21",
+   "sessionNumber": "01",
+   "topic": "자기 소개",
+   "file": "AI부사수(SUN)_2026-06-21.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-06-21",
+   "sessionNumber": "01",
+   "topic": "센스 깨우기 & 사용자 중심 전환",
+   "file": "감각적기획_2026-06-21.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-06-25",
+   "sessionNumber": "2",
+   "topic": "클로드코드 설치와 워크스페이스 이식",
+   "file": "AI핸즈온_2026-06-25.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-06-25",
+   "sessionNumber": "1",
+   "topic": "직업심리학1 (직무선택동기)",
+   "file": "경영브릿지-심리학_2026-06-25.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-06-26",
+   "sessionNumber": "3",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · S사분면 실습 (Start)",
+   "file": "AI부사수(FRI)_2026-06-26.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-06-27",
+   "sessionNumber": "2",
+   "topic": "내면극장: '나'라는 무대 위엔 주연 배우와 악플러가 함께 있다.",
+   "file": "직장인문학_2026-06-27.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-06-27",
+   "sessionNumber": "1",
+   "topic": "'팀오호츠크' 멤버 자기소개",
+   "file": "팀오호츠크_2026-06-27.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-06-28",
+   "sessionNumber": "1",
+   "topic": "중간에 낀 자리의 힘",
+   "file": "중간리더십_2026-06-28.json"
+  },
+  {
+   "team": "서울재발견",
+   "date": "2026-06-30",
+   "sessionNumber": "2",
+   "topic": "성수: K-브랜드의 현재가 만들어지는 동네",
+   "file": "서울재발견_2026-06-30.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-07-02",
+   "sessionNumber": "02",
+   "topic": "직업심리학2 (계획된 우연)",
+   "file": "경영브릿지-심리학_2026-07-02.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-07-03",
+   "sessionNumber": "01",
+   "topic": "《지금 다시 계몽》",
+   "file": "리더의서재_2026-07-03.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-07-04",
+   "sessionNumber": "02",
+   "topic": "강점의 구성요소, 스킬",
+   "file": "강점차별화_2026-07-04.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-07-04",
+   "sessionNumber": "02",
+   "topic": "Writing Like a Native",
+   "file": "컨퍼런스콜_2026-07-04.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-07-05",
+   "sessionNumber": "02",
+   "topic": "데이터 분석",
+   "file": "AI부사수(SUN)_2026-07-05.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-07-05",
+   "sessionNumber": "02",
+   "topic": "Discover: 사용자 리서치와 공감",
+   "file": "감각적기획_2026-07-05.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-07-09",
+   "sessionNumber": "03",
+   "topic": "외부 도구와의 연동 - Google Workspace",
+   "file": "AI핸즈온_2026-07-09.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-07-09",
+   "sessionNumber": "03",
+   "topic": "CBT (인지행동이론)",
+   "file": "경영브릿지-심리학_2026-07-09.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-07-10",
+   "sessionNumber": "04",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · T사분면 실습 (Try)",
+   "file": "AI부사수(FRI)_2026-07-10.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-07-11",
+   "sessionNumber": "03",
+   "topic": "호모 나르시쿠스, '나다움'의 유혹",
+   "file": "직장인문학_2026-07-11.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-07-11",
+   "sessionNumber": "02",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-07-11.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-07-12",
+   "sessionNumber": "02",
+   "topic": "권한 없이 영향력 내기",
+   "file": "중간리더십_2026-07-12.json"
+  },
+  {
+   "team": "서울재발견",
+   "date": "2026-07-14",
+   "sessionNumber": "03",
+   "topic": "을지로·세운: 도시재생이 글로벌하게 통하는 이유",
+   "file": "서울재발견_2026-07-14.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-07-17",
+   "sessionNumber": "02",
+   "topic": "지금 다시 계몽",
+   "file": "리더의서재_2026-07-17.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-07-18",
+   "sessionNumber": "03",
+   "topic": "노력의 ROI, 1등과 2등의 차이",
+   "file": "강점차별화_2026-07-18.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-07-18",
+   "sessionNumber": "03",
+   "topic": "Speaking Up in Meetings",
+   "file": "컨퍼런스콜_2026-07-18.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-07-19",
+   "sessionNumber": "03",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · S사분면 실습 (Start)",
+   "file": "AI부사수(SUN)_2026-07-19.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-07-19",
+   "sessionNumber": "02",
+   "topic": "Discover: 사용자 리서치와 공감",
+   "file": "감각적기획_2026-07-19.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-07-23",
+   "sessionNumber": "04",
+   "topic": "실무 사례로 배우는 Skill & Subagents",
+   "file": "AI핸즈온_2026-07-23.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-07-23",
+   "sessionNumber": "04",
+   "topic": "Performance Marketing",
+   "file": "마케팅디깅_2026-07-23.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-07-24",
+   "sessionNumber": "05",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · A사분면 실습 (Amplify)",
+   "file": "AI부사수(FRI)_2026-07-24.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-07-25",
+   "sessionNumber": "04",
+   "topic": "'나다움'에서 '우리다움'으로: 나르시시즘 공동체와 AI(자아이상-장치)",
+   "file": "직장인문학_2026-07-25.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-07-25",
+   "sessionNumber": "03",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-07-25.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-07-26",
+   "sessionNumber": "03",
+   "topic": "Define: 경험 구조화와 문제 정의",
+   "file": "감각적기획_2026-07-26.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-07-26",
+   "sessionNumber": "03",
+   "topic": "숫자로 설명하는 리더",
+   "file": "중간리더십_2026-07-26.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-07-30",
+   "sessionNumber": "04",
+   "topic": "완벽주의",
+   "file": "경영브릿지-심리학_2026-07-30.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-07-31",
+   "sessionNumber": "03",
+   "topic": "지금 다시 계몽",
+   "file": "리더의서재_2026-07-31.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-08-01",
+   "sessionNumber": "05",
+   "topic": "모두가 자신의 무가치함과 (무가치함을 위해서) 싸우고 있다.",
+   "file": "직장인문학_2026-08-01.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-08-01",
+   "sessionNumber": "04",
+   "topic": "Disagree & Push Back",
+   "file": "컨퍼런스콜_2026-08-01.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-08-02",
+   "sessionNumber": "04",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · T사분면 실습 (Try)",
+   "file": "AI부사수(SUN)_2026-08-02.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-08-02",
+   "sessionNumber": "04",
+   "topic": "Develop: 창의적 아이데이션 & 직관",
+   "file": "감각적기획_2026-08-02.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-08-06",
+   "sessionNumber": "05",
+   "topic": "내 필요에 맞춘 대시보드 · 웹 앱 구축",
+   "file": "AI핸즈온_2026-08-06.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-08-06",
+   "sessionNumber": "05",
+   "topic": "CRM & Growth",
+   "file": "마케팅디깅_2026-08-06.json"
+  },
+  {
+   "team": "AI부사수(FRI)",
+   "date": "2026-08-07",
+   "sessionNumber": "06",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · R사분면 실습 (Recover)",
+   "file": "AI부사수(FRI)_2026-08-07.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-08-08",
+   "sessionNumber": "04",
+   "topic": "번아웃 방지를 위한 데이터 분석",
+   "file": "강점차별화_2026-08-08.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-08-08",
+   "sessionNumber": "04",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-08-08.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-08-09",
+   "sessionNumber": "04",
+   "topic": "위임의 경계",
+   "file": "중간리더십_2026-08-09.json"
+  },
+  {
+   "team": "서울재발견",
+   "date": "2026-08-11",
+   "sessionNumber": "05",
+   "topic": "을지로·명동 (필드트립): 외국인의 동선으로 걷는 서울",
+   "file": "서울재발견_2026-08-11.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-08-14",
+   "sessionNumber": "04",
+   "topic": "《인간 본성의 법칙》",
+   "file": "리더의서재_2026-08-14.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-08-15",
+   "sessionNumber": "05",
+   "topic": "지속 성장의 옵션들, Y = aX + b",
+   "file": "강점차별화_2026-08-15.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-08-15",
+   "sessionNumber": "05",
+   "topic": "C-level Briefing",
+   "file": "컨퍼런스콜_2026-08-15.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-08-16",
+   "sessionNumber": "05",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · A사분면 실습 (Amplify)",
+   "file": "AI부사수(SUN)_2026-08-16.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-08-16",
+   "sessionNumber": "05",
+   "topic": "Deliver: 프로토타입 & 사용성 테스트",
+   "file": "감각적기획_2026-08-16.json"
+  },
+  {
+   "team": "AI핸즈온",
+   "date": "2026-08-20",
+   "sessionNumber": "06",
+   "topic": "결과물 발표 및 클로드 코드로 나만의 워크 스페이스 구축 완성",
+   "file": "AI핸즈온_2026-08-20.json"
+  },
+  {
+   "team": "마케팅디깅",
+   "date": "2026-08-20",
+   "sessionNumber": "06",
+   "topic": "KPI와 마케터의 뷰",
+   "file": "마케팅디깅_2026-08-20.json"
+  },
+  {
+   "team": "팀오호츠크",
+   "date": "2026-08-21",
+   "sessionNumber": "05",
+   "topic": "투자 포트폴리오 리뷰",
+   "file": "팀오호츠크_2026-08-21.json"
+  },
+  {
+   "team": "직장인문학",
+   "date": "2026-08-22",
+   "sessionNumber": "06",
+   "topic": "호모 나르시쿠스는 무가치함을 향해 자기를 던진다",
+   "file": "직장인문학_2026-08-22.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-08-23",
+   "sessionNumber": "05",
+   "topic": "피드백과 갈등 관리",
+   "file": "중간리더십_2026-08-23.json"
+  },
+  {
+   "team": "서울재발견",
+   "date": "2026-08-25",
+   "sessionNumber": "06",
+   "topic": "필드트립 리뷰와 시즌 랩업",
+   "file": "서울재발견_2026-08-25.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-08-27",
+   "sessionNumber": "05",
+   "topic": "번아웃",
+   "file": "경영브릿지-심리학_2026-08-27.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-08-28",
+   "sessionNumber": "05",
+   "topic": "《인간 본성의 법칙》",
+   "file": "리더의서재_2026-08-28.json"
+  },
+  {
+   "team": "강점차별화",
+   "date": "2026-08-29",
+   "sessionNumber": "06",
+   "topic": "나만의 서사, 경력기술서 업데이트",
+   "file": "강점차별화_2026-08-29.json"
+  },
+  {
+   "team": "컨퍼런스콜",
+   "date": "2026-08-29",
+   "sessionNumber": "06",
+   "topic": "After the Call",
+   "file": "컨퍼런스콜_2026-08-29.json"
+  },
+  {
+   "team": "AI부사수(SUN)",
+   "date": "2026-08-30",
+   "sessionNumber": "06",
+   "topic": "AI 트렌드 · 지난 2주간 AI 경험 공유 · R사분면 실습 (Recover)",
+   "file": "AI부사수(SUN)_2026-08-30.json"
+  },
+  {
+   "team": "감각적기획",
+   "date": "2026-08-30",
+   "sessionNumber": "06",
+   "topic": "발표 & 피드백",
+   "file": "감각적기획_2026-08-30.json"
+  },
+  {
+   "team": "경영브릿지-심리학",
+   "date": "2026-09-03",
+   "sessionNumber": "06",
+   "topic": "미루기",
+   "file": "경영브릿지-심리학_2026-09-03.json"
+  },
+  {
+   "team": "리더의서재",
+   "date": "2026-09-04",
+   "sessionNumber": "05",
+   "topic": "《인간 본성의 법칙》",
+   "file": "리더의서재_2026-09-04.json"
+  },
+  {
+   "team": "중간리더십",
+   "date": "2026-09-06",
+   "sessionNumber": "06",
+   "topic": "나의 회복과 경계",
+   "file": "중간리더십_2026-09-06.json"
+  }
+ ]
+}
