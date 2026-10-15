@@ -1,0 +1,96 @@
+{
+  "season": "2026 봄시즌",
+  "team": "팀오호츠크",
+  "date": "2026. 04. 19 일요일",
+  "sessionNumber": "03",
+  "topic": "투자 포트폴리오 리뷰",
+  "nextSession": "다음 <strong>4회차</strong>는 <strong>5월 3일 (일) 10:30</strong> 3층 소정동입니다.",
+  "venue": "소정동",
+  "timetable": [
+    {
+      "time": "10:30 – 10:40",
+      "label": "스몰토크",
+      "main": false
+    },
+    {
+      "time": "10:40 – 11:40",
+      "label": "파트너의 발표 진행",
+      "main": true
+    },
+    {
+      "time": "11:40 – 11:50",
+      "label": "쉬는 시간",
+      "main": false
+    },
+    {
+      "time": "11:50 – 12:50",
+      "label": "파트너의 발표 진행",
+      "main": true
+    },
+    {
+      "time": "12:50 – 13:00",
+      "label": "4L 리뷰 작성",
+      "main": false
+    }
+  ],
+  "partner": {
+    "name": "김재윤",
+    "org": "HFK"
+  },
+  "members": [
+    {
+      "name": "정호준",
+      "org": "삼성전자"
+    },
+    {
+      "name": "이수연",
+      "org": "부산시립미술관"
+    },
+    {
+      "name": "김하나",
+      "org": "HERE Technologies"
+    },
+    {
+      "name": "신선아",
+      "org": "오아시스마켓"
+    },
+    {
+      "name": "박지원",
+      "org": "LINE+"
+    },
+    {
+      "name": "이주영",
+      "org": "더플레이컴퍼니"
+    },
+    {
+      "name": "윤다혜",
+      "org": "Emirates Shipping Line"
+    }
+  ],
+  "notices": [
+    "AI 부트캠프를 서울과 제주에서 엽니다. 바이브 코딩을 100% 활용하고 있지만, 내 일에 AI를 120%, 200% 더 발견해보고 싶은 멤버를 위한 자리입니다.",
+    "HFK는 '성장은 벡터'라는 관점에서 여름시즌부터 성장 트랙을 새로 설계합니다. 코카콜라의 Multidirectional Career Growth를 참고해 New horizons, Vertical, Horizontal, Realignment, Enrichment 등 성장의 방향에 따라 팀과 프로그램을 매칭합니다. 당신의 성장 방향은 어디를 향하고 있나요?",
+    "봄시즌을 개선하고, 의미 있는 여름시즌을 준비하기 위해 멤버들의 피드백을 기다립니다. 사전 서베이에 모든 멤버가 참여해주셔야 합니다."
+  ],
+  "events": [
+    {
+      "day": "04.22",
+      "dow": "수",
+      "time": "19:30",
+      "venue": "오아시스 덕수궁",
+      "title": "AAR 밋업: 오늘의집 인테리어, 김민정님"
+    },
+    {
+      "day": "04.29",
+      "dow": "수",
+      "time": "19:30",
+      "venue": "오아시스 덕수궁",
+      "title": "저자 북토크: <누구나 혼자 서는 순간이 온다>, 김나이 지음"
+    }
+  ],
+  "wifi": {
+    "id": "301_sojungdong",
+    "pw": "sojungdong00000"
+  },
+  "restroom": "W 4F (비번없음) · M 5F (0000)"
+}
